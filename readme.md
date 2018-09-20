@@ -1,6 +1,6 @@
-# Spektrum cheat sheet
+# Spektrum cheat sheets
 
-A small collection of resources for quick reference purposes.
+A small collection of documentation for quick reference purposes.
 
 ## Contributing
 
